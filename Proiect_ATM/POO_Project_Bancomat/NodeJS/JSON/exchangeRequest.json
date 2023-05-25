@@ -1,0 +1,8 @@
+{
+	"from" : 
+	{
+		"amount" : 1000,
+		"base" : "GBP"
+	},
+	"to" : "RON"
+}

@@ -1,0 +1,2 @@
+D:\Universitate\POO\POO_Project_Bancomat\POO_Project_Bancomat\x64\Debug\POO_Project_Bancomat.vcxproj.AssemblyReference.cache
+D:\Universitate\POO\POO_Project_Bancomat\POO_Project_Bancomat\x64\Debug\POO_Project_Bancomat.vcxproj.SuggestedBindingRedirects.cache

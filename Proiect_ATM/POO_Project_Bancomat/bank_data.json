@@ -1,0 +1,16 @@
+[
+	{
+		"PIN" : "1111",
+		"card_number" : "1234100000",
+		"full_name" : "Mihalachi Andrei",
+		"money_count" : 29117.0,
+		"phone_number" : "076722625"
+	},
+	{
+		"PIN" : "1111",
+		"card_number" : "1234100001",
+		"full_name" : "Lunic Petru",
+		"money_count" : 6981.5,
+		"phone_number" : "076722625"
+	}
+]
